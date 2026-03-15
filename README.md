@@ -1,4 +1,4 @@
-# Hi there, I'm Santosh Naik 👋
+# Hey there, I'm Santosh Naik 👋
 
 🎓 Computer Science Student  
 💻 Passionate about Programming, AI and Web Development  
