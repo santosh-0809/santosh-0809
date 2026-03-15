@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Santosh Naik 👋
 
-<!--
-**santosh-0809/santosh-0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Passionate about Programming, AI and Web Development  
+🚀 Currently learning Data Structures, Web Development and AIML 
+________________________________________________________________________________________________
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C Programming (Basic)
+- C++ (Basic)
+- Python (Basic)
+- HTML
+- CSS
+- JS
+- Git & GitHub (Basic)
+
+________________________________________________________________________________________________
+
+## 🌱 Currently Learning
+
+- Git & GitHub
+- Java
+- Artificial Intelligence & Machine Learning
+- Data Structures & Algorithm
+
+________________________________________________________________________________________________
+
+## 📫 Let's Connect
+
+LinkedIn: ([Add your LinkedIn profile link here](https://www.linkedin.com/in/santosh-naik-79b03a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+________________________________________________________________________________________________
+
+## ⚡ Fun Fact
+
+I love building projects and learning new technologies.
