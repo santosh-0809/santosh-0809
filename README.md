@@ -1,6 +1,6 @@
 # Hey there, I'm Santosh Naik 👋
 
-🎓 Computer Science Student  
+🎓 Computer Engineering Student  
 💻 Passionate about Programming, AI and Web Development  
 🚀 Currently learning Data Structures, Web Development and AIML 
 ________________________________________________________________________________________________
