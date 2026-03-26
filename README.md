@@ -28,7 +28,8 @@ ________________________________________________________________________________
 
 ## 📫 Let's Connect
 
-LinkedIn: ([Add your LinkedIn profile link here](https://www.linkedin.com/in/santosh-naik-79b03a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+Email: ([Santosh Naik](naiksantosh2448@gmail.com))
+LinkedIn: ([May visit my LinkedIn profile](https://www.linkedin.com/in/santosh-naik-79b03a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ________________________________________________________________________________________________
 
