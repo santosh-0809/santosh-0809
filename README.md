@@ -28,7 +28,7 @@ ________________________________________________________________________________
 
 ## 📫 Let's Connect
 
-Email: ([Email Me](naiksantosh2448@gmail.com))<br>
+Email: naiksantosh2448@gmail.com<br>
 LinkedIn: ([Connect with me on LinkedIn](https://www.linkedin.com/in/santosh-naik-79b03a31a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ________________________________________________________________________________________________
